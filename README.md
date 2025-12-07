@@ -1,0 +1,5 @@
+This plugin adds a “similar scenes” feature to Stash by surfacing scenes whose tags overlap with the one currently being watched. It hooks into the existing tagging system and uses those shared tags to build a set of recommendations that feel natural to how Stash users already browse their libraries. The goal is to make it easier to move from one scene to another without having to manually dig through tags, performers, or studios.
+
+On desktop, the plugin integrates directly beneath the active scene. As soon as a scene is loaded, a row of suggested scenes appears, each one chosen because it shares between 2-7 tags with the current video. The mobile experience works the same way, with the difference that recommendations are placed inside a dedicated “Similar Scenes” tab under the video player. Also, on both desktop and mobile there is a "refresh" button that instantly refreshes the suggested scenes.
+
+The plugin is meant to blend into Stash without feeling like an add-on. Please let me know if you have any suggestions or issues!
