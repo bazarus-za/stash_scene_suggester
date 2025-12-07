@@ -1,4 +1,4 @@
-To install, navigate to your Stash install location and then click on the plugins folder. Copy these three files into that folder.
+To install, navigate to your Stash install location and then click on the plugins folder. Create a new folder called similar_scenes. Copy these three files into that folder.
 
 This plugin adds a “similar scenes” feature to Stash by surfacing scenes whose tags overlap with the one currently being watched. It hooks into the existing tagging system and uses those shared tags to build a set of recommendations that feel natural to how Stash users already browse their libraries. The goal is to make it easier to move from one scene to another without having to manually dig through tags, performers, or studios.
 
