@@ -1,0 +1,9 @@
+name: Similar Scenes
+description: Displays 10 random suggested scenes with 2-7 matching tags. Includes mobile-only collapsible menu at the bottom of the scene details.
+version: 2.7
+url: https://github.com/yourusername/stash-similar-scenes
+ui:
+  javascript:
+    - similar_scenes.js
+  css:
+    - similar_scenes.css
